@@ -4,7 +4,7 @@ var b = chrome || browser
 b.contextMenus.create({
     id: "search-instagram",
     title: "Look it up on Instagram!",
-    contexts: ["selection"],
+    contexts: ["selection"]
 });
 
 b.contextMenus.onClicked.addListener((info, _) => {

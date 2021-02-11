@@ -1,13 +1,12 @@
 {
   "manifest_version": 2,
   "name": "TinderGram",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Helps to look up the Instagram Account of Tinder chicks blazingly fast.",
-  "permissions": [
-    "contextMenus",
-    "activeTab",
-    "storage"
-  ],
+  "permissions": ["contextMenus", "activeTab", "storage"],
+  "icons": {
+    "128": "icon_v3.png"
+  },
   "background": {
     "scripts": ["index.js"]
   },
