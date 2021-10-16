@@ -16,7 +16,7 @@ See someone you like on tinder and they have their instagram in their bio? Just 
 
 ## Firefox Requirements
 
-This plugin was build with web-ext version **5.5.0**
+This plugin was built using web-ext version **5.5.0**
 
 * Building web extension from source:
 
