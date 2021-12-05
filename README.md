@@ -12,6 +12,7 @@ Install it in your browser (currently firefox is the only supported browser):
 ## Using it
 
 See someone you like on tinder and they have their instagram in their bio? Just select the text, rightclick and voilá !
+![Example Usage](https://user-images.githubusercontent.com/19832039/144766791-03713a71-5e7f-4569-84d7-2d1fa328afe1.png)
 
 
 ## Firefox Requirements
