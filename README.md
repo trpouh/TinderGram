@@ -7,7 +7,7 @@ Helps to look up the Instagram Account of Tinder chicks blazingly fast.
 Install it in your browser (currently firefox is the only supported browser):
 
 * [Firefox Add-On](https://addons.mozilla.org/de/firefox/addon/tindergram/)
-* chrome: you can donate me 5$ so I can create my chrome-dev account and publish the plugin in the chrome web-store. 
+* chrome: you can donate me 5$ so I can create my chrome-dev account and publish the plugin on the chrome web-store. 
 
 ## Using it
 
